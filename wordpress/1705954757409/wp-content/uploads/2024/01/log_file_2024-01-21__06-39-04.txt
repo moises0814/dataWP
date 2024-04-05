@@ -1,0 +1,11 @@
+
+---Archivos descargados---
+Los archivos de importación para Avantex Education ¡han sido descargados correctamente!
+Tiempo de ejecución máximo inicial = 30
+Información de archivos:
+URL del sitio = http://cursohn.ddns.net
+Archivo de datos = /var/www/html/wordpress/wp-content/uploads/2024/01/demo-content-import-file_2024-01-21__06-39-04.xml
+Archivo de widget = /var/www/html/wordpress/wp-content/uploads/2024/01/demo-widgets-import-file_2024-01-21__06-39-04.json
+Archivo del personalizador = /var/www/html/wordpress/wp-content/uploads/2024/01/demo-customizer-import-file_2024-01-21__06-39-04.dat
+Archivos de Redux:
+ ¡no definido!

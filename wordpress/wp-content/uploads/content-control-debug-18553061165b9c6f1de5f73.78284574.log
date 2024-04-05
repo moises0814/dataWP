@@ -1,0 +1,3 @@
+Content Control Debug Logs:
+2024-1-31 05:05:05 - Log file initialized
+2024-1-31 16:03:17 - ERROR: Rule `content_is_stm-courses_with_stm_lms_course_taxonomy` not found.
